@@ -1,0 +1,24 @@
+{
+    "prices": {
+        "delivery": 0.0,
+        "spool_weight": 1.0,
+        "spool_price": 1400.0,
+        "electricity_price": 1.5,
+        "modeling_price": 300.0,
+        "printing_price": 200.0,
+        "postprocessing_price": 300.0,
+        "depreciation_price": 50.0
+    },
+    "costs": {
+        "material_used": 200.0,
+        "printer_power": 0.3,
+        "modeling_hours": 3,
+        "modeling_minutes": 30,
+        "printing_hours": 2,
+        "printing_minutes": 5,
+        "postprocessing_hours": 1,
+        "postprocessing_minutes": 5,
+        "quantity": 2
+    },
+    "theme": "dark"
+}
